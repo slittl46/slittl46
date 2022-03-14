@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 
 
 # CERTIFICATIONS:
-
+	![This is an image](https://github.com/slittl46/slittl46/assets/images/SecurityProCert.pdf)
