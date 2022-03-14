@@ -13,4 +13,3 @@ You can click the Preview link to take a look at your changes.
 
 
 # CERTIFICATIONS:
-	![This is an image](/assets/images/SecurityProCert.pdf)
