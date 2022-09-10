@@ -1,8 +1,6 @@
 # ABOUT ME
 - 👋 Hi, I’m Seth Little
-- 👀 I’m interested in Python, Flask, Web App Development, Data Storage/Manipulation, and more.
-- 🌱 I’m currently learning Python, Flask, Bootstrap, SQLAlchemy, Java, and C#.
-- 💞️ I’m looking to get my career started while finishing my undergrad CS degree in May 2022
+- 👀 I am a SWE that works with Spring, REST APIs, and React following TDD/BDD practices.
 - 📫 How to reach me: slittl46@uncc.edu -- (828) 446 1978
 
 <!---
